@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nodejs-txadxwuu-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/nodejs-txadxwuu-gitops
